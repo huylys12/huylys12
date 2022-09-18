@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-twitter-URL">
+  <a href="https://www.facebook.com/huylys219">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -22,19 +22,19 @@
 </h1>
 
 <div id="banner" align="center">
-  <img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="500" height="300"/>
+  <img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="500"/>
 </div>
 
 ***
 ### :student: About Me 
-I am a Python Developer from Vietnam
-- :briefcase: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :mag:	
-- :coffee: 
+- :school: I'm a 3rd year undergraduate in Ho Chi Minh City University of Technology
+- :briefcase: I am a Python Developer from Vietnam
+- :bookmark_tabs: I'm currently open for: `Intern` or `Fresher Job Opportunity`. This is  [MY PORTFOLIO]()
+- :mag:	In my free time, I always learning new things
 <!-- - :mailbox:How to contact me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) -->
 
 ***
-### :hammer_and_wrench: Languages and Tools
+### :hammer_and_wrench: My working tools
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -49,7 +49,7 @@ I am a Python Developer from Vietnam
 </div>
 
 ***
-### :fire: My Stats
+### :fire: Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=huylys12&theme=ayu-light)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huylys12&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
