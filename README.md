@@ -5,8 +5,8 @@
   <a href="https://www.facebook.com/huylys219">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="mailto:huylg2109@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -28,7 +28,7 @@
 ***
 ### :student: About Me 
 - :school: I'm a 3rd year undergraduate in Ho Chi Minh City University of Technology
-- :briefcase: I am a Python Developer from Vietnam
+- :briefcase: I'm a Python Developer and contributing to frontend and backend for building web applications.
 - :bookmark_tabs: I'm currently open for: `Intern` or `Fresher Job Opportunity`. This is  [MY PORTFOLIO]()
 - :mag:	In my free time, I always learning new things
 <!-- - :mailbox:How to contact me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) -->
@@ -51,7 +51,7 @@
 ***
 ### :fire: Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=huylys12&theme=ayu-light)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huylys12&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huylys12&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- *** -->
 <!-- ### :writing_hand: Blog Posts -->
