@@ -55,8 +55,11 @@
 
 ***
 ### :fire: Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=huylys12&theme=ayu-light)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huylys12&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)
+<div id="stats" align="center">
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=huylys12&theme=ayu-light)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huylys12&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <!-- *** -->
 <!-- ### :writing_hand: Blog Posts -->
