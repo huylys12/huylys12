@@ -61,5 +61,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huylys12&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+  ![Snake animation](https://github.com/huylys12/huylys12/blob/output/github-contribution-grid-snake.svg)
+
 <!-- *** -->
 <!-- ### :writing_hand: Blog Posts -->
