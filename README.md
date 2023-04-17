@@ -27,11 +27,11 @@
 
 ***
 ### :student: About Me 
-- :school: I'm a 3rd year undergraduate in Ho Chi Minh City University of Technology
-- :briefcase: I'm contributing to frontend and backend for building web applications.
+- :school: I'm a 3rd year student in Ho Chi Minh City University of Technology.
+- :briefcase: I hope to work as a `Software Engineer` in the not-too-distant future.
 - :bookmark_tabs: I'm currently open for: `Intern` or `Fresher Job Opportunity`. 
 <!-- - This is  [MY PORTFOLIO]() -->
-- :mag:	In my free time, I am always learning new things
+- :mag:	In my spare time, I always use this time to gain more technical knowledge.
 <!-- - :mailbox:How to contact me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) -->
 
 ***
